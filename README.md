@@ -1,5 +1,5 @@
 # RoutingAlgorithms
-Python implements of Bellman-Ford Algorithm and Dijkstra's Algorithm, also a solution of the assignment E6108.
+Python implements of Bellman-Ford Algorithm and Dijkstra's Algorithm, also a solution of E6108 assignment 2.
 
 ## Info
 Version: Python 3.6.
