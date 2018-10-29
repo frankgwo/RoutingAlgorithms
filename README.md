@@ -4,4 +4,4 @@ Python implements of Bellman-Ford Algorithm and Dijkstra's Algorithm, also a sol
 ## Info
 Version: Python 3.6.  
 While running the exe, please put the exe and the input file in the same folder.   
-For PC with Python 3.6, you can simply go the the folder and run 'python bellmanford.py' in the command line.  
+For PC with Python 3.6, you can simply go the the folder and run `python bellmanford.py` in the command line.  
